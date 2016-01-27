@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\bin\Debug\MultidimencionalArrays.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\bin\Debug\MultidimencionalArrays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\bin\Debug\MultidimencionalArrays.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\obj\Debug\MultidimencionalArrays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\obj\Debug\MultidimencionalArrays.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\bin\Debug\MultidimencionalArrays.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArrays\bin\Debug\MultidimencionalArrays.exe.lastcodeanalysissucceeded

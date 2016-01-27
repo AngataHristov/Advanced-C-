@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\jaggedArrays\bin\Debug\LaggedArrays.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\jaggedArrays\obj\Debug\LaggedArrays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\jaggedArrays\obj\Debug\LaggedArrays.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\jaggedArrays\bin\Debug\LaggedArrays.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\jaggedArrays\obj\Debug\LaggedArrays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\jaggedArrays\obj\Debug\LaggedArrays.pdb

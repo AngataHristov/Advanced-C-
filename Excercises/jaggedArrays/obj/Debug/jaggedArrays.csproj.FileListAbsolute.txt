@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\LaggedArrays\bin\Debug\LaggedArrays.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\LaggedArrays\bin\Debug\LaggedArrays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\LaggedArrays\bin\Debug\LaggedArrays.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\LaggedArrays\obj\Debug\LaggedArrays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\LaggedArrays\obj\Debug\LaggedArrays.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\LaggedArrays\obj\Debug\jaggedArrays.csprojResolveAssemblyReference.cache

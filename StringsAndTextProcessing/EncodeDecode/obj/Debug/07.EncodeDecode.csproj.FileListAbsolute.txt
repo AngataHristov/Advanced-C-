@@ -1,0 +1,8 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb

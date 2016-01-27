@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

@@ -1,0 +1,1 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\bin\Debug\SelectionSortOfArray.exe.config

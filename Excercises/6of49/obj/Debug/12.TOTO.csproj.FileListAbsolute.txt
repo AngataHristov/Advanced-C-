@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\bin\Debug\6of49.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\bin\Debug\6of49.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\bin\Debug\6of49.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\obj\Debug\6of49.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\obj\Debug\6of49.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\bin\Debug\6of49.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\6of49\bin\Debug\6of49.exe.lastcodeanalysissucceeded

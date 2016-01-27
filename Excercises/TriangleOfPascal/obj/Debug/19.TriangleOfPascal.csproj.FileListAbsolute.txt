@@ -1,0 +1,12 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\TriangleOfPascal\bin\Debug\TriangleOfPascal.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\TriangleOfPascal\bin\Debug\TriangleOfPascal.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\TriangleOfPascal\bin\Debug\TriangleOfPascal.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\TriangleOfPascal\obj\Debug\19.TriangleOfPascal.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\TriangleOfPascal\obj\Debug\TriangleOfPascal.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\TriangleOfPascal\obj\Debug\TriangleOfPascal.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\TriangleOfPascal\bin\Debug\TriangleOfPascal.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\TriangleOfPascal\obj\Debug\TriangleOfPascal.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\TriangleOfPascal\obj\Debug\TriangleOfPascal.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\TriangleOfPascal\bin\Debug\TriangleOfPascal.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\TriangleOfPascal\bin\Debug\TriangleOfPascal.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\TriangleOfPascal\obj\Debug\19.TriangleOfPascal.csprojResolveAssemblyReference.cache

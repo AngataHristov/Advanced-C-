@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\obj\Debug\04.ConvertFahrenheitToCelsius.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\bin\Debug\ConvertFahrenheitToCelsius.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\bin\Debug\ConvertFahrenheitToCelsius.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\bin\Debug\ConvertFahrenheitToCelsius.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\obj\Debug\ConvertFahrenheitToCelsius.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\obj\Debug\ConvertFahrenheitToCelsius.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\bin\Debug\ConvertFahrenheitToCelsius.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\obj\Debug\ConvertFahrenheitToCelsius.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\ConvertFahrenheitToCelsius\obj\Debug\ConvertFahrenheitToCelsius.pdb

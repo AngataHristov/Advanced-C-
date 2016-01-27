@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.pdb

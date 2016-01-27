@@ -1,0 +1,8 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\bin\Debug\SayHello.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\bin\Debug\SayHello.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\bin\Debug\SayHello.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\obj\Debug\SayHello.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\obj\Debug\SayHello.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\bin\Debug\SayHello.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\bin\Debug\SayHello.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SayHello\obj\Debug\01.SayHello.csprojResolveAssemblyReference.cache

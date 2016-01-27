@@ -1,0 +1,8 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\bin\Debug\OddLines.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\obj\Debug\OddLines.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\obj\Debug\OddLines.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\bin\Debug\OddLines.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\bin\Debug\OddLines.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\bin\Debug\OddLines.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\obj\Debug\OddLines.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\OddLines\obj\Debug\OddLines.pdb

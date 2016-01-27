@@ -1,0 +1,11 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

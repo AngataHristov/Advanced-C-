@@ -1,0 +1,10 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.lastcodeanalysissucceeded
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb

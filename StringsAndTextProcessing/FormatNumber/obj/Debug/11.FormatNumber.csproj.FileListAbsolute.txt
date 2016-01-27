@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\obj\Debug\11.FormatNumber.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.pdb

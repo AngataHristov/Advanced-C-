@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\bin\Debug\MaximalSumInSequence.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\bin\Debug\MaximalSumInSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\bin\Debug\MaximalSumInSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\obj\Debug\MaximalSumInSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\obj\Debug\MaximalSumInSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\bin\Debug\MaximalSumInSequence.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSumInSequence\bin\Debug\MaximalSumInSequence.exe.lastcodeanalysissucceeded

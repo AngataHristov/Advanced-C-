@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\bin\Debug\Triangle.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\bin\Debug\Triangle.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\obj\Debug\03.Triangle.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\obj\Debug\Triangle.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\obj\Debug\Triangle.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\Triangle\obj\Debug\Triangle.pdb

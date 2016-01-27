@@ -1,0 +1,2 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config

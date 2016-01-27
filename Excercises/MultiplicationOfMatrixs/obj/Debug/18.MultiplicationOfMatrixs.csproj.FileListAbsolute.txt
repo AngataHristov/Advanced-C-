@@ -1,0 +1,11 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultiplicationOfMatrixs\bin\Debug\MultiplicationOfMatrixs.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultiplicationOfMatrixs\bin\Debug\MultiplicationOfMatrixs.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultiplicationOfMatrixs\bin\Debug\MultiplicationOfMatrixs.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultiplicationOfMatrixs\obj\Debug\MultiplicationOfMatrixs.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultiplicationOfMatrixs\obj\Debug\MultiplicationOfMatrixs.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultiplicationOfMatrixs\bin\Debug\MultiplicationOfMatrixs.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultiplicationOfMatrixs\obj\Debug\MultiplicationOfMatrixs.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultiplicationOfMatrixs\obj\Debug\MultiplicationOfMatrixs.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultiplicationOfMatrixs\bin\Debug\MultiplicationOfMatrixs.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultiplicationOfMatrixs\obj\Debug\MultiplicationOfMatrixs.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultiplicationOfMatrixs\obj\Debug\MultiplicationOfMatrixs.pdb

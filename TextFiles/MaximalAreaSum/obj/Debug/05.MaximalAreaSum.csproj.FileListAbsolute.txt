@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\MaximalAreaSum\obj\Debug\05.MaximalAreaSum.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\MaximalAreaSum\obj\Debug\MaximalAreaSum.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\TextFiles\MaximalAreaSum\obj\Debug\MaximalAreaSum.pdb

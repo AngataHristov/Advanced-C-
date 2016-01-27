@@ -1,0 +1,10 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\bin\Debug\ArrayDemoOne.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\bin\Debug\ArrayDemoOne.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\bin\Debug\ArrayDemoOne.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\obj\Debug\ArrayDemoOne.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\obj\Debug\ArrayDemoOne.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\bin\Debug\ArrayDemoOne.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\ArrayDemoOne\bin\Debug\ArrayDemoOne.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ArrayDemoOne\bin\Debug\ArrayDemoOne.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ArrayDemoOne\obj\Debug\ArrayDemoOne.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ArrayDemoOne\obj\Debug\ArrayDemoOne.pdb

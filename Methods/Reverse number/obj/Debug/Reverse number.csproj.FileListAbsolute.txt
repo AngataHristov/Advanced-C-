@@ -1,0 +1,1 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe.config

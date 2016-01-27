@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\obj\Debug\Reverse number.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\obj\Debug\Reverse number.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe.lastcodeanalysissucceeded

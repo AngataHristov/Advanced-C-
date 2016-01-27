@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\bin\Debug\SolveTasks.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\bin\Debug\SolveTasks.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\bin\Debug\SolveTasks.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\obj\Debug\SolveTasks.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\obj\Debug\SolveTasks.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\bin\Debug\SolveTasks.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\SolveTasks\bin\Debug\SolveTasks.exe.lastcodeanalysissucceeded

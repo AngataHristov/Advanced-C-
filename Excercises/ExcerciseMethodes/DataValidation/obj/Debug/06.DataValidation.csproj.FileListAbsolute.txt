@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\bin\Debug\DataValidation.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\bin\Debug\DataValidation.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\bin\Debug\DataValidation.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\obj\Debug\06.DataValidation.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\obj\Debug\DataValidation.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\obj\Debug\DataValidation.pdb
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\bin\Debug\DataValidation.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\obj\Debug\DataValidation.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseMethodes\DataValidation\obj\Debug\DataValidation.pdb

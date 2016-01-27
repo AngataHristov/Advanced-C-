@@ -1,0 +1,10 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\bin\Debug\PrimeNumbersInRangeN.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\obj\Debug\PrimeNumbersInRangeN.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\obj\Debug\PrimeNumbersInRangeN.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\bin\Debug\PrimeNumbersInRangeN.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\bin\Debug\PrimeNumbersInRangeN.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\bin\Debug\PrimeNumbersInRangeN.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\PrimeNumbersInRangeN\bin\Debug\PrimeNumbersInRangeN.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\PrimeNumbersInRangeN\bin\Debug\PrimeNumbersInRangeN.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\PrimeNumbersInRangeN\obj\Debug\PrimeNumbersInRangeN.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\PrimeNumbersInRangeN\obj\Debug\PrimeNumbersInRangeN.pdb

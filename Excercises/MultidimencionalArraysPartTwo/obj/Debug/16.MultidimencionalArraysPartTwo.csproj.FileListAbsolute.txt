@@ -1,0 +1,10 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\bin\Debug\MultidimencionalArraysPartTwo.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\bin\Debug\MultidimencionalArraysPartTwo.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\bin\Debug\MultidimencionalArraysPartTwo.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\obj\Debug\MultidimencionalArraysPartTwo.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\obj\Debug\MultidimencionalArraysPartTwo.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\bin\Debug\MultidimencionalArraysPartTwo.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\MultidimencionalArraysPartTwo\bin\Debug\MultidimencionalArraysPartTwo.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultidimencionalArraysPartTwo\bin\Debug\MultidimencionalArraysPartTwo.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultidimencionalArraysPartTwo\obj\Debug\MultidimencionalArraysPartTwo.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\MultidimencionalArraysPartTwo\obj\Debug\MultidimencionalArraysPartTwo.pdb

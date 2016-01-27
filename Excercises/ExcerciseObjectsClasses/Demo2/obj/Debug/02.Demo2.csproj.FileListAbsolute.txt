@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseObjectsClasses\Demo2\bin\Debug\Demo2.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseObjectsClasses\Demo2\bin\Debug\Demo2.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseObjectsClasses\Demo2\bin\Debug\Demo2.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseObjectsClasses\Demo2\obj\Debug\Demo2.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseObjectsClasses\Demo2\obj\Debug\Demo2.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Excercises\ExcerciseObjectsClasses\Demo2\obj\Debug\02.Demo2.csprojResolveAssemblyReference.cache

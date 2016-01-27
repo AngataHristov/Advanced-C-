@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\bin\Debug\SelectionSortOfArray.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\bin\Debug\SelectionSortOfArray.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\bin\Debug\SelectionSortOfArray.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\obj\Debug\SelectionSortOfArray.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\obj\Debug\SelectionSortOfArray.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\bin\Debug\SelectionSortOfArray.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\SelectionSortOfArray\bin\Debug\SelectionSortOfArray.exe.lastcodeanalysissucceeded

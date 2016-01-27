@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\bin\Debug\DisplayAndSumOfNNumbers.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\bin\Debug\DisplayAndSumOfNNumbers.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\bin\Debug\DisplayAndSumOfNNumbers.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\obj\Debug\DisplayAndSumOfNNumbers.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\obj\Debug\DisplayAndSumOfNNumbers.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\bin\Debug\DisplayAndSumOfNNumbers.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Excercises\DisplayAndSumOfNNumbers\bin\Debug\DisplayAndSumOfNNumbers.exe.lastcodeanalysissucceeded

@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\MultidimensionalArrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\MultidimensionalArrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\MultidimensionalArrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\MultidimensionalArrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\MultidimensionalArrays\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\MultidimensionalArrays\BinarySearch\obj\Debug\04.BinarySearch.csprojResolveAssemblyReference.cache

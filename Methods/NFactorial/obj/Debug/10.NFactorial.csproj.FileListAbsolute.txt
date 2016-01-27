@@ -1,0 +1,8 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\bin\Debug\NFactorial.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\bin\Debug\NFactorial.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\bin\Debug\NFactorial.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\obj\Debug\NFactorial.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\obj\Debug\NFactorial.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\bin\Debug\NFactorial.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\NFactorial\bin\Debug\NFactorial.exe.lastcodeanalysissucceeded

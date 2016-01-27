@@ -1,0 +1,12 @@
+Here begin the text words:
+Telerik
+C#
+Ninja Telerik
+C#
+Ninja
+sucker
+Telerik
+C#
+Ninja
+And ends here
+So the words from the list are missing!!!

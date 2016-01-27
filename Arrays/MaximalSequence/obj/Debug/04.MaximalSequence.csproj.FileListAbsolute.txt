@@ -1,0 +1,16 @@
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Arrays\MaximalSequence\obj\Debug\04.MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#1\CSharp-Part-1\HomeworksCSharp1\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.lastcodeanalysissucceeded
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+C:\Users\Elliot\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

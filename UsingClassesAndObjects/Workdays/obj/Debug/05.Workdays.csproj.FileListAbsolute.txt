@@ -1,0 +1,3 @@
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\Workdays\obj\Debug\Workdays.exe
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\Workdays\obj\Debug\Workdays.pdb
+C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\UsingClassesAndObjects\Workdays\bin\Debug\Workdays.exe.config
