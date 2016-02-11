@@ -5,3 +5,6 @@ C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Larger
 C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb
 C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.CodeAnalysisLog.xml
 C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.lastcodeanalysissucceeded
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamentals\03.AdvanceCSharp\Git\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamentals\03.AdvanceCSharp\Git\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamentals\03.AdvanceCSharp\Git\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

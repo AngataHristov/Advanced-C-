@@ -5,3 +5,4 @@ C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Revers
 C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\obj\Debug\Reverse number.pdb
 C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe.CodeAnalysisLog.xml
 C:\Users\ani\Desktop\IT\Telerik_c#\CSharp-Part-2\HomeworksCSharp2\Methods\Reverse number\bin\Debug\Reverse number.exe.lastcodeanalysissucceeded
+C:\Users\Elliot\Desktop\SoftUni\02.Fundamentals\03.AdvanceCSharp\Git\Methods\Reverse number\bin\Debug\Reverse number.exe.config
