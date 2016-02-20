@@ -1,0 +1,35 @@
+ 1. namespace LineNumbers
+ 2. {
+ 3.     using System.IO;
+ 4. 
+ 5.     public class LineNumbersMain
+ 6.     {
+ 7.         public static void Main()
+ 8.         {
+ 9.             string pathForReading = "../../LineNumbersMain.cs";
+10.             string pathForWriting = "../../LineNumbersMainFixed.txt";
+11. 
+12.             StreamReader reader = new StreamReader(pathForReading);
+13.             StreamWriter writer = new StreamWriter(pathForWriting);
+14. 
+15.             using (reader)
+16.             {
+17.                 using (writer)
+18.                 {
+19.                     string line = reader.ReadLine();
+20.                     int count = 1;
+21. 
+22.                     while (line != null)
+23.                     {
+24.                         string numberedLine = string.Format("{0,2}. {1}", count, line);
+25. 
+26.                         writer.WriteLine(numberedLine);
+27. 
+28.                         line = reader.ReadLine();
+29.                         count++;
+30.                     }
+31.                 }
+32.             }
+33.         }
+34.     }
+35. }

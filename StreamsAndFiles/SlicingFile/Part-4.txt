@@ -1,0 +1,12 @@
+                   {
+                        sliceSize = (i < parts - 1) ? sliceSize : sliceSize + leftOver;
+                        var buffer = new byte[sliceSize];
+                        source.Read(buffer, 0, buffer.Length);
+                        destination.Write(buffer, 0, buffer.Length);
+                    }
+                }
+            }
+        }
+    }
+}
+
